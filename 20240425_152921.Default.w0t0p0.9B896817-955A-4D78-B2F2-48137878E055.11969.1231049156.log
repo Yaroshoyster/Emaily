@@ -1,0 +1,31 @@
+Last login: Wed Apr 24 15:28:05 on ttys001
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro ~ % [K[?2004hkks[?2004l
+zsh: command not found: ks
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro ~ % [K[?2004hkksk  llss[?2004l
+zsh: command not found: lss
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro ~ % [K[?2004hlls[?2004l
+Applications		Library			node_modules
+Desktop			Movies			package-lock.json
+Documents		Music			prod
+Downloads		Pictures		server
+Js			Public
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro ~ % [K[?2004hccd server[?2004l
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hppep pwdj[?2004l
+zsh: command not found: pwdj
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hppep pwd ] [?2004l
+/Users/yaroslav/server
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hlls[?2004l
+20240425_152921.Default.w0t0p0.9B896817-955A-4D78-B2F2-48137878E055.11969.1231049156.log
+README.md
+index.js
+node_modules
+package-lock.json
+package.json
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hg ccd' /[?2004l
+zsh: no such file or directory: cd/
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hoopen/[?2004l
+zsh: no such file or directory: open/
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hrrlm r rm -t rg f , .git[?2004l
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hggit init[?2004l
+Initialized empty Git repository in /Users/yaroslav/server/.git/
+[1m[7m%[27m[1m[0m                                                                                [0m[27m[24m[Jyaroslav@Annas-MacBook-Pro server % [K[?2004hggit add. .[1C[?2004l
